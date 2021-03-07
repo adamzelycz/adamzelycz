@@ -5,15 +5,15 @@ I'm Adam, fullstack developer from **Czech Republic**
 
 ### Where to find me
 <p>
-  <a href="htps://github.com/adamzelycz" title="PHP"><img src="icons/github.png" /></a>
-  <a href="htps://linkedin.com/adamzelycz" title="PHP"><img src="icons/linkedin.png" /></a>
-  <a href="htps://keybase.io/adamzelycz" title="PHP"><img src="icons/keybase.png" /></a>
-  <a href="htps://twitter.com/adamzelycz" title="PHP"><img src="icons/twitter.png" /></a>
-  <a href="htps://instagram.com/adamzelycz" title="PHP"><img src="icons/instagram.png" /></a>
-  <a href="htps://facebook.com/adamzelycz" title="PHP"><img src="icons/facebook.png" /></a>
-  <a href="htps://open.spotifiy.com/user/7qgs7i0dnfjffuzf1de1zckm1" title="PHP"><img src="icons/spotify.png" /></a>
-  <a href="htps://gitlab.com/adamzelycz" title="PHP"><img src="icons/gitlab.png" /></a>
-  <a href="htps://youtube.com/adamzelycz" title="PHP"><img src="icons/youtube.png" /></a>
+  <a href="https://github.com/adamzelycz" title="PHP"><img src="icons/github.png" /></a>
+  <a href="https://linkedin.com/adamzelycz" title="PHP"><img src="icons/linkedin.png" /></a>
+  <a href="https://keybase.io/adamzelycz" title="PHP"><img src="icons/keybase.png" /></a>
+  <a href="https://twitter.com/adamzelycz" title="PHP"><img src="icons/twitter.png" /></a>
+  <a href="https://instagram.com/adamzelycz" title="PHP"><img src="icons/instagram.png" /></a>
+  <a href="https://facebook.com/adamzelycz" title="PHP"><img src="icons/facebook.png" /></a>
+  <a href="https://open.spotifiy.com/user/7qgs7i0dnfjffuzf1de1zckm1" title="PHP"><img src="icons/spotify.png" /></a>
+  <a href="https://gitlab.com/adamzelycz" title="PHP"><img src="icons/gitlab.png" /></a>
+  <a href="https://youtube.com/adamzelycz" title="PHP"><img src="icons/youtube.png" /></a>
   <br>
   <a href="https://keybase.io/adamzelycz" target="_blank"><img alt="Keybase" src="https://img.shields.io/keybase/pgp/adamzelycz"></a>
 </p>
