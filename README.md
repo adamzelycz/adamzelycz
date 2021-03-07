@@ -34,7 +34,7 @@ I'm Adam, fullstack developer from **Czech Republic**
   <a href="https://www.jetbrains.com/linux/" title="Linux"><img src="icons/linux.png" /></a>
   <a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
   <a href="https://nginx.org/" title="Nginx"><img src="icons/nginx.png" /></a>
-  <a href="https://blackfire.io/" title="Postman"><img src="icons/blackfire.png" /></a>
+  <a href="https://blackfire.io/" title="Blackfire"><img src="icons/blackfire.png" /></a>
   <a href="https://www.postman.com/" title="Postman"><img src="icons/postman.png" /></a>
 </p>
 
