@@ -4,12 +4,12 @@
 I'm Adam, fullstack developer from **Czech Republic**
 
 ### Where to find me
-<!---<p>
-    <a href="https://github.com/adamzelycz" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@adamzelycz-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+<p>
+    <!---<a href="https://github.com/adamzelycz" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@adamzelycz-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/adamzelycz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
     <a href="https://keybase.io/adamzelycz" target="_blank"><img alt="Keybase" src="https://img.shields.io/badge/-Keybase?style=flat-square&logo=Keybase&logoColor=white"></a>
-    <a href="https://keybase.io/adamzelycz" target="_blank"><img alt="Keybase" src="https://img.shields.io/keybase/pgp/adamzelycz"></a>
-</p>-->
+    <a href="https://keybase.io/adamzelycz" target="_blank"><img alt="Keybase" src="https://img.shields.io/keybase/pgp/adamzelycz"></a>-->
+
 <a href="htps://github.com/adamzelycz" title="PHP"><img src="icons/github.png" /></a>
 <a href="htps://linkedin.com/adamzelycz" title="PHP"><img src="icons/linkedin.png" /></a>
 <a href="htps://keybase.io/adamzelycz" title="PHP"><img src="icons/keybase.png" /></a>
@@ -21,7 +21,7 @@ I'm Adam, fullstack developer from **Czech Republic**
 <a href="htps://youtube.com/adamzelycz" title="PHP"><img src="icons/youtube.png" /></a>
 
 <a href="https://keybase.io/adamzelycz" target="_blank"><img alt="Keybase" src="https://img.shields.io/keybase/pgp/adamzelycz"></a>
-
+</p>
 ### Working with
 <p>
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
