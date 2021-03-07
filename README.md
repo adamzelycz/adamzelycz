@@ -22,6 +22,7 @@ I'm Adam, fullstack developer from **Czech Republic**
 
 <a href="https://keybase.io/adamzelycz" target="_blank"><img alt="Keybase" src="https://img.shields.io/keybase/pgp/adamzelycz"></a>
 </p>
+
 ### Working with
 <p>
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
