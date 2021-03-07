@@ -5,15 +5,14 @@ I'm Adam, fullstack developer from **Czech Republic**
 
 ### Where to find me
 <p>
-  <a href="https://github.com/adamzelycz" title="PHP"><img src="icons/github.png" /></a>
-  <a href="https://linkedin.com/adamzelycz" title="PHP"><img src="icons/linkedin.png" /></a>
-  <a href="https://keybase.io/adamzelycz" title="PHP"><img src="icons/keybase.png" /></a>
-  <a href="https://twitter.com/adamzelycz" title="PHP"><img src="icons/twitter.png" /></a>
-  <a href="https://instagram.com/adamzelycz" title="PHP"><img src="icons/instagram.png" /></a>
-  <a href="https://facebook.com/adamzelycz" title="PHP"><img src="icons/facebook.png" /></a>
-  <a href="https://open.spotifiy.com/user/7qgs7i0dnfjffuzf1de1zckm1" title="PHP"><img src="icons/spotify.png" /></a>
-  <a href="https://gitlab.com/adamzelycz" title="PHP"><img src="icons/gitlab.png" /></a>
-  <a href="https://youtube.com/adamzelycz" title="PHP"><img src="icons/youtube.png" /></a>
+  <a href="https://github.com/adamzelycz" title="Github"><img src="icons/github.png" /></a>
+  <a href="https://linkedin.com/adamzelycz" title="LinkedIn"><img src="icons/linkedin.png" /></a>
+  <a href="https://keybase.io/adamzelycz" title="Keybase"><img src="icons/keybase.png" /></a>
+  <a href="https://twitter.com/adamzelycz" title="Twitter"><img src="icons/twitter.png" /></a>
+  <a href="https://instagram.com/adamzelycz" title="Instagram"><img src="icons/instagram.png" /></a>
+  <a href="https://facebook.com/adamzelycz" title="Facebook"><img src="icons/facebook.png" /></a>
+  <a href="https://open.spotifiy.com/user/7qgs7i0dnfjffuzf1de1zckm1" title="Spotify"><img src="icons/spotify.png" /></a>
+  <a href="https://gitlab.com/adamzelycz" title="Gitlab"><img src="icons/gitlab.png" /></a>
   <br>
   <a href="https://keybase.io/adamzelycz" target="_blank"><img alt="Keybase" src="https://img.shields.io/keybase/pgp/adamzelycz"></a>
 </p>
@@ -29,12 +28,14 @@ I'm Adam, fullstack developer from **Czech Republic**
   <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
   <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
   <a href="https://sass-lang.com/" title="Sass"><img src="icons/sass.png" /></a>
-  <a href="https://www.postman.com/" title="Postman"><img src="icons/postman.png" /></a>
-  <a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
   <a href="https://phpstan.org/" title="PHPStan"><img src="icons/phpstan.png" /></a>
-  <a href="https://nginx.org/" title="Nginx"><img src="icons/nginx.png" /></a>
   <a href="https://doctrine-project.org/" title="Doctrine"><img src="icons/doctrine.png" /></a>
   <a href="https://wordpress.org/" title="Wordpress"><img src="icons/wordpress.png" /></a>
+  <a href="https://www.jetbrains.com/linux/" title="Linux"><img src="icons/linux.png" /></a>
+  <a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
+  <a href="https://nginx.org/" title="Nginx"><img src="icons/nginx.png" /></a>
+  <a href="https://blackfire.io/" title="Postman"><img src="icons/blackfire.png" /></a>
+  <a href="https://www.postman.com/" title="Postman"><img src="icons/postman.png" /></a>
 </p>
 
 ### Learning/Want to learn
