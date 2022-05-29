@@ -47,7 +47,7 @@ I'm Adam, fullstack developer from **Czech Republic**
 ### Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  29,433 Karma Points           
+🏆  29,436 Karma Points           
 🌸  Completed 2 tasks today           
 ✅  Completed 5,456 tasks so far           
 ⏳  Longest streak is 41 days
